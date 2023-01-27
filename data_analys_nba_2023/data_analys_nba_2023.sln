@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data_analys_nba_2023", "data_analys_nba_2023.csproj", "{B682D8CC-7CED-4C01-9223-FB4C2177CFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B682D8CC-7CED-4C01-9223-FB4C2177CFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B682D8CC-7CED-4C01-9223-FB4C2177CFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B682D8CC-7CED-4C01-9223-FB4C2177CFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B682D8CC-7CED-4C01-9223-FB4C2177CFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8442077-B890-481F-934A-0BCBB852EAFB}
+	EndGlobalSection
+EndGlobal
